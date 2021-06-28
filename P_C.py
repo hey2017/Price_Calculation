@@ -10,10 +10,6 @@ import pandas as pd
 import yahoo_finance as yf
 #from yahoofinancials import YahooFinancials
 
-import os
-os.chdir("G:\\My Drive\\FellowShips\\Data-Incubator summer 2021\\Project")
-print('\nCurrent directory is: ',os.getcwd())
-
 # install the datareader: pip install pandas_datareader
 import pandas_datareader as pdr
 import datetime
